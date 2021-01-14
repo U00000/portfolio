@@ -1,0 +1,28 @@
+body {
+  background-color: #6689A1;
+  color: #fdffff;
+  width: 500px;
+  margin: 15px auto;
+  padding: 10px;
+  border: 1px solid;
+
+}
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  border-style: none;
+  color: #fdffff;
+}
+input {
+  height: 20px;
+}
+
+#result-area {
+  background-color: #839E94;
+  margin-top: 10px;
+
+}
+
+#user-name {
+  margin-bottom: 10px;
+}
